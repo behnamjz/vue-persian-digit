@@ -4,14 +4,6 @@ this filter convert number in the text to persian number
 
 ## Installation
 
-### Direct include
-
-Simply include `vue-persian-digit` after Vue and it will install itself automatically:
-
-```html
-<script src="vue.js"></script>
-<script src="vue-persian-digit.min.js"></script>
-```
 
 ### NPM
 
