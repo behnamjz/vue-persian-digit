@@ -6,7 +6,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
   },
   "dependencies": {
     "vue": "^2.5.21"
@@ -28,5 +28,22 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/behnamjz/vue-persian-digit.git"
-  }
+  },
+  "keywords": [
+    "Filter",
+    "Vue Filter",
+    "Vuejs Filter",
+    "SSR",
+    "Web",
+    "Components",
+    "Vue",
+    "VueJS",
+    "Vue2",
+    "WebComponents",
+    "Popper.js",
+    "Persian",
+    "Persianjs",
+    "Persian Numbers Filters",
+    "Persian Digit Filter"
+  ]
 }
