@@ -16,6 +16,6 @@ export default function persianDigit (value) {
   for (let i = 0; i <= 9; i++) {
     result = result.replace(new RegExp(`${i}`, 'g'), persian[i])
   }
-  value = result
+  this.value = result
   return result
 }
