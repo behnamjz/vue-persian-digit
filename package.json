@@ -1,6 +1,6 @@
 {
   "name": "vue-persian-digit",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "> this filter convert number in the text to persian number",
   "main": "./src/main.js",
   "scripts": {
